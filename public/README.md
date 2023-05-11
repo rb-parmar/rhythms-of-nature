@@ -3,6 +3,6 @@
 A wildlife website that makes use of components and props.
 
 
-Click [here](https://rb-parmar.github.io/rhythms-of-nature/) to view the 'Rhythms Of Nature' website.
+Click [here]() to view the 'Rhythms Of Nature' website.
 
 
