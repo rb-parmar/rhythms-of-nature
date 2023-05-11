@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/rhythms-of-nature/static/css/main.11cd83f1.css",
+    "main.css": "/rhythms-of-nature/static/css/main.67bb6297.css",
     "main.js": "/rhythms-of-nature/static/js/main.084980be.js",
     "static/media/banner-image2.jpg": "/rhythms-of-nature/static/media/banner-image2.faf117b7f14c4fcd61ef.jpg",
     "static/media/banner-image.jpg": "/rhythms-of-nature/static/media/banner-image.10bfd84f06aeb7796c5c.jpg",
@@ -9,11 +9,11 @@
     "static/media/photo2.jpg": "/rhythms-of-nature/static/media/photo2.1a0c1355c6cc7603c6c9.jpg",
     "static/media/photo3.jpg": "/rhythms-of-nature/static/media/photo3.05f2f1821bef43d01131.jpg",
     "index.html": "/rhythms-of-nature/index.html",
-    "main.11cd83f1.css.map": "/rhythms-of-nature/static/css/main.11cd83f1.css.map",
+    "main.67bb6297.css.map": "/rhythms-of-nature/static/css/main.67bb6297.css.map",
     "main.084980be.js.map": "/rhythms-of-nature/static/js/main.084980be.js.map"
   },
   "entrypoints": [
-    "static/css/main.11cd83f1.css",
+    "static/css/main.67bb6297.css",
     "static/js/main.084980be.js"
   ]
 }
